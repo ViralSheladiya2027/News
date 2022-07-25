@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Man killed as sink hole opens under swimming pool in Israel",
+    "description": "The 32-year-old was sucked to his death when the ground opened under the pool at a party in Israel.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-62265898",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E0B/production/_126013196_poolisraelfireandrescueservice.jpg",
+    "publishedAt": "2022-07-22T11:22:25.2138731Z",
+    "content": "By Raffi BergBBC News\r\nTwo people have appeared in court after a man was sucked to his death when a sink hole opened under a swimming pool he was in at a house party in Israel.\r\nThe incident happened… [+1473 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Capitol riot hearings: Eight key moments",
+    "description": "Eight moments from the hearings that offer a window into Donald Trump's mindset during the riots.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62263279",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/708B/production/_126011882_gettyimages-1242040337.jpg",
+    "publishedAt": "2022-07-22T10:52:21.6205977Z",
+    "content": "By Matt MurphyBBC News\r\nThe committee investigating the US capitol riots has thrown up some fascinating insights into the behaviour of former President Donald Trump as armed demonstrators invaded the… [+8382 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war latest: Hope food crisis could ease if Ukraine grain deal agreed",
+    "description": "Turkey says it's brokered a deal with Russia to unblock crucial exports of grain from Ukraine through the Black Sea",
+    "url": "http://www.bbc.co.uk/news/live/world-europe-62262698",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2022-07-22T08:52:27.6700542Z",
+    "content": "Grain that's badly needed around the world is stuck in silos\r\nin the Ukrainian port of Odessa, about 20 million tonnes of it.\r\nIt's understood the agreement to resume exports requires a\r\nsort of ceas… [+483 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Eerie glow in sky confuses Australian town and outs cannabis farm",
+    "description": "Though soon proven not to be supernatural, the light in the sky did reveal a secret.",
+    "url": "http://www.bbc.co.uk/news/world-australia-62261094",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/118BE/production/_126007817_293245988_6112814042066279_4546040895096903173_n.jpg",
+    "publishedAt": "2022-07-22T06:07:23.1977914Z",
+    "content": "By Tiffanie TurnbullBBC News, Sydney\r\nWhen a pink glow lit up the evening sky above an Australian town on Wednesday, local woman Tammy Szumowski wondered if the apocalypse had arrived.\r\n\"I was just b… [+1864 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Capitol riot: 'Selfish' Trump ignored pleas to condemn attack",
+    "description": "The president was \"pouring gasoline on the fire\" during the Capitol attack, the inquiry hears.",
+    "url": "http://www.bbc.co.uk/news/62261164",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AC41/production/_125979044_capitolrioters2.jpg",
+    "publishedAt": "2022-07-22T03:22:24.2139491Z",
+    "content": "By Jude SheerinBBC, Washington\r\nEx-US President Donald Trump watched last year's Capitol riot on TV at the White House, ignoring his children and aides who \"begged him\" to rebuke the mob, a congressi… [+4904 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia 'looting' steel bound for Europe and UK, says Metinvest boss",
+    "description": "A Ukrainian steel boss accuses Russia of stealing metal that had been meant for Europe.",
+    "url": "http://www.bbc.co.uk/news/business-62252704",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5C44/production/_126002632_yuriyryzhenkovphoto.jpg",
+    "publishedAt": "2022-07-22T01:07:27.3686856Z",
+    "content": "By Simon JackBusiness editor\r\nRussia is looting $600m (£500m) worth of steel from plants and ports in Ukraine, according to the boss of Ukraine's largest steel firm Metinvest.\r\nThe firm owns the Azov… [+4328 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sri Lanka: Forces raid anti-government protest camp",
+    "description": "Troops descended on the camp less than a day after Ranil Wickremesinghe was sworn in as president.",
+    "url": "http://www.bbc.co.uk/news/world-asia-62260678",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/158CE/production/_126007288_mediaitem126007485.jpg",
+    "publishedAt": "2022-07-22T01:07:24.5725057Z",
+    "content": "By George WrightBBC News\r\nMedia caption, Watch: Tense scenes in Sri Lanka - BBC reporter on the ground\r\nSecurity forces in Sri Lanka have raided the main anti-government protest camp in the capital C… [+5819 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Thomas Lane: Ex-policeman jailed for role in George Floyd killing",
+    "description": "Thomas Lane is sentenced to two-and-a-half years for violating the civil rights of George Floyd.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62260950",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/21DE/production/_126007680_mediaitem126007679.jpg",
+    "publishedAt": "2022-07-22T01:07:22.6354875Z",
+    "content": "Media caption, What role did these police have in Floyds death?\r\nAn ex-policeman has been jailed for two-and-a-half years for violating the civil rights of George Floyd, whose 2020 Minneapolis death … [+1655 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'We've spent years preparing our Comic-Con costumes'",
+    "description": "More than 100,000 fans are gathering in San Diego for Comic-Con.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-62229956",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BCCA/production/_126003384_p0cn9q35.jpg",
+    "publishedAt": "2022-07-22T00:22:20.4630399Z",
+    "content": "More than 100,000 fans are gathering in San Diego for this year's Comic-Con.\r\nThe four-day event has returned in-person for the first time since 2019 because of the impact of the Covid pandemic.\r\nThe… [+39 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Polio: New York reports first US case in nearly a decade",
+    "description": "An unvaccinated young adult in New York is experiencing paralysis after contracting the virus.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62260454",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B12/production/_126007386_gettyimages-1209160057.jpg",
+    "publishedAt": "2022-07-21T23:37:26.5252265Z",
+    "content": "By Sam CabralBBC News, Washington\r\nA young adult in New York has become the first US resident in nearly a decade to contract polio, state health officials say.\r\nThe unnamed patient in Rockland County… [+2053 chars]"
+    }
+    ]
+    }
