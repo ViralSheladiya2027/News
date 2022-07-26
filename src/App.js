@@ -6,7 +6,6 @@ import NavBar from './components/NavBar';
 import News from './components/News';
 import {
   BrowserRouter as Router,
-  // Switch,
   Route,
   Routes
 } from "react-router-dom";
